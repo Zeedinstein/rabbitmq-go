@@ -1,2 +1,3 @@
 # rabbitmq-go
-Testing rabbitmq with golang
+
+Abstraction of the AMQP package for use with rabbitmq
